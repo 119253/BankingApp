@@ -13,3 +13,8 @@ Once you hit register the details will be saved to a text file in the same path 
 If you try to withdraw money more than your balance an "Insufficent Funds!" error message will appear.
 
 ![Error  Insufficent Funds!](https://user-images.githubusercontent.com/74497475/114275247-b535e480-9a19-11eb-96ab-e0b10b842132.PNG)
+
+Requirments:
+* Python 3
+* tkinter
+* PIL (or Pillow)
