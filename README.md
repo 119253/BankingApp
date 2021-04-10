@@ -17,4 +17,5 @@ If you try to withdraw money more than your balance an "Insufficent Funds!" erro
 Requirments:
 * Python 3
 * tkinter
-* PIL (or Pillow)
+* Pillow (pip install Pillow)
+
