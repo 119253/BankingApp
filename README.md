@@ -1,6 +1,7 @@
 # BankingApp
 
 This Tkinter GUI program is a banking app which allows you to register, login, deposit, withdraw & view personal details.
+
 Users information is saved into a txt file so even after the program stops running, you can reacquire the data once the program is running again.
 
 ![Main](https://user-images.githubusercontent.com/74497475/114275236-abac7c80-9a19-11eb-8726-6ca4fd919d6a.PNG)
